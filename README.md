@@ -37,7 +37,9 @@ Here are some demo tasks to try out:
 
 ## 📸 DEMO
 
-> Make sure `screenshot.png` is added to your repo for the image to appear.
+
+https://github.com/user-attachments/assets/6a6ac599-3a15-4629-9beb-ba5a141618b1
+
 
 ## 📄 License
 
